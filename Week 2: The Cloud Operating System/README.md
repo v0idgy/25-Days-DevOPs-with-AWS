@@ -2,6 +2,8 @@ This is the detailed syllabus for **Week 2: AWS Cloud Mastery**. In this week, t
 
 ---
 
+
+
 ### **Day 06: AWS Global Infrastructure & IAM**
 **Goal:** Understand how AWS is organized and how to secure it using the "Principle of Least Privilege."
 
